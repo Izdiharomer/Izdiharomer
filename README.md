@@ -3,15 +3,14 @@
 
 I'm Izdihar, a passionate front-end developer on a journey to create fascinating web experiences. Welcome to my GitHub profile! 🚀
 
+
 ## About Me
 Welcome to my corner of the GitHub universe! I'm thrilled to have you here. Let me share a bit about what makes my front-end development journey unique.
 I'm all about turning ideas into beautifully designed and user-friendly websites. With a keen eye for detail and a knack for problem-solving.
-
 I'm not just a front-end developer; I'm a digital dreamweaver. I believe in the magic of transforming abstract ideas into visually stunning and intuitive websites. 
 
 
 ## Technologies
-
 I'm proficient in:
 - HTML
 - CSS3 
@@ -19,17 +18,15 @@ I'm proficient in:
 - Front-end frameworks like React.js
 
 ## Reach Out
-
 💌 If you're as passionate about web experiences as I am, let's collaborate! [Shoot me an email](mailto:ezdiharomerrrr@gmail.com) and let's turn ideas into reality.
-
-For more glimpses into my journey, connect with me on [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/izdihar-omar-a09373242/)) 
+For more glimpses into my journey, connect with me on [LinkedIn]([https://www.linkedin.com/in/izdihar-omar/]) 
 
 
 ## Thanks for visiting! 🎉
-
 Thank you for checking out my profile. Feel free to explore my repositories and learn more about my passion for front-end development.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izdiharomer&show_icons=true&theme=radical)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izdiharomer)](https://github.com/anuraghazra/github-readme-stats)
 
 
