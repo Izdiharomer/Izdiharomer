@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izdiharomer&show_icons=true&theme=radical&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izdiharomer&show_icons=true&theme=radicalapi/pin?username=anuraghazra&repo=github-readme-stats)
 
 <!--
 **Izdiharomer/Izdiharomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
