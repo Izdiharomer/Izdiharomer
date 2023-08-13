@@ -19,13 +19,13 @@ I'm proficient in:
 
 ## Reach Out
 💌 If you're as passionate about web experiences as I am, let's collaborate! [Shoot me an email](mailto:ezdiharomerrrr@gmail.com) and let's turn ideas into reality.
-For more glimpses into my journey, connect with me on [LinkedIn]([https://www.linkedin.com/in/izdihar-omar/]) 
+For more glimpses into my journey, connect with me on [LinkedIn]([https://www.linkedin.com/in/izdihar-omar/) 
 
 
 ## Thanks for visiting! 🎉
 Thank you for checking out my profile. Feel free to explore my repositories and learn more about my passion for front-end development.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izdiharomer&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izdiharomer&show_icons=true)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izdiharomer)](https://github.com/anuraghazra/github-readme-stats)
 
