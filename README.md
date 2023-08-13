@@ -20,14 +20,14 @@ I'm proficient in:
 
   
 ## Language
--English
--Arabic
--Kurdish
--Turkish (not fluent)
+-English <br/>
+-Arabic <br/>
+-Kurdish <br/>
+-Turkish (not fluent) <br/>
 
 ## Reach Out
 💌 If you're as passionate about web experiences as I am, let's collaborate! [Shoot me an email](mailto:ezdiharomerrrr@gmail.com) and let's turn ideas into reality.
-For more glimpses into my journey, connect with me on [LinkedIn](https://www.linkedin.com/in/izdihar-omar/)
+For more glimpses into my journey, connect with me on [LinkedIn](https://www.linkedin.com/in/izdihar-omar-a09373242/)
 
 
 ## Thanks for visiting! 🎉
