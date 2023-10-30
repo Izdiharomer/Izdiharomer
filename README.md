@@ -16,7 +16,9 @@ I'm proficient in:
 - HTML
 - CSS
 - JavaScript
-- Front-end frameworks like React.js (next.js)
+- Typescript
+- JavaScript frameworks and librarirs: React.js and next.js
+- CSS frameworks: Tailwind and Bootstrap
 
   
 ## Language
